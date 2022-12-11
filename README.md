@@ -16,7 +16,7 @@ Deployed on Vercel.
 
 ---
 
-[Live version](https://intermittent-rewards.vercel.app/)
+[Live version](https://intermittentreward.vercel.app)
 
 ---
 

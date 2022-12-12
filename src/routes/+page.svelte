@@ -46,7 +46,7 @@
 		</div>
 		<div class="mt-6">
 			<div class="flex justify-start space-x-6">
-				<div class="flex flex-col h-28">
+				<div class="flex flex-col h-28 touch-pinch-zoom">
 					<button
 						on:click={() => $chance++}
 						class="flex-1 rounded-t-xl border border-b-0 border-stone-500 text-stone-500 transition duration-100 ease-in-out bg-stone-100 hover:bg-stone-600 hover:text-stone-100"
